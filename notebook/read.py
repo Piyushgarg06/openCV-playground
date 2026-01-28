@@ -1,5 +1,5 @@
 import cv2 as cv
-img = cv.imread("data/Photos/cat.jpg")
+img = cv.imread("data/Photos/cats 2.jpg")
 cv.imshow('cat',img)
 cv.waitKey(0)
 
